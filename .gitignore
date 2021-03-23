@@ -13,3 +13,9 @@ Cargo.lock
 # Added by cargo
 
 /target
+
+# Environment files
+.env
+
+# Config
+Config.toml
